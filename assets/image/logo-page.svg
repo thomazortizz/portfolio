@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="132.292mm" height="132.292mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 13229.16 13229.16"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="675" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="700">
+	<font-face 
+		font-family="League Spartan">
+		<font-face-src>
+			<font-face-name name="League Spartan Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="&lt;" horiz-adv-x="544" d="M481.499 90.9996l-437.5 185.5 0 112.499 437.5 186.501 0 -132 -281.499 -110.999 281.499 -110.001 0 -131.5z"/>
+   <glyph unicode="t" horiz-adv-x="363" d="M6.99969 410.5l70.0004 0 0 168.5 150.5 0 0 -168.5 92 0 0 -125 -92 0 0 -114.5c0,-17.0001 2.49924,-30.6667 7.5,-41.1674 4.99962,-10.4995 14.1669,-15.8331 27.4996,-15.8331 8.99977,0 16.6673,2.00008 23.0003,6.00023 6.333,4.00015 10.1668,6.66692 11.5001,8.0003l51.9997 -108.001c-2.33285,-2.00008 -9.50007,-5.66631 -21.6669,-10.9998 -12.1668,-5.33353 -27.666,-10.1668 -46.3334,-14.4997 -18.6662,-4.33293 -39.5001,-6.50053 -62.4992,-6.50053 -41.001,0 -74.8336,11.6677 -101.5,34.8332 -26.6665,23.1667 -40.0004,58.8341 -40.0004,107.168l0 155.5 -70.0004 0 0 125z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"League Spartan";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil1 {fill:black}
+    .fil0 {fill:#FFDD1F}
+    .fnt1 {font-weight:bold;font-size:4438.7px;font-family:'League Spartan'}
+    .fnt0 {font-weight:bold;font-size:8774.67px;font-family:'League Spartan'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-0.01" y="-0.01" width="13229.17" height="13229.17" rx="1490.39" ry="1490.39"/>
+  <text x="5025.61" y="9102.2"  class="fil1 fnt0">t</text>
+  <text x="2185.95" y="8093.79"  class="fil1 fnt1">&lt;</text>
+  <g transform="matrix(-1 -0 0 1 17419.7 1512.7)">
+   <text x="6614.58" y="6614.58"  class="fil1 fnt1">&lt;</text>
+  </g>
+ </g>
+</svg>
